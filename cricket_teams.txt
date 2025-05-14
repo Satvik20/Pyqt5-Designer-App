@@ -1,0 +1,26 @@
+India:Indian:True:0:0:0:0:0
+Australia:Australian:True:25:12:8:2400:110
+New Zealand:New Zealander:True:22:12:7:2300:100
+England:English:True:28:14:9:2450:115
+Pakistan:Pakistani:True:26:13:8:2350:108
+South Africa:South African:True:24:13:7:2200:105
+Sri Lanka:Sri Lankan:True:20:12:6:2150:102
+Bangladesh:Bangladeshi:True:18:11:5:2000:95
+West Indies:West Indian:True:21:13:6:2100:97
+Afghanistan:Afghan:True:19:12:5:1980:93
+Zimbabwe:Zimbabwean:True:15:11:4:1850:89
+Ireland:Irish:True:16:11:4:1800:85
+Netherlands:Dutch:False:12:10:3:1700:82
+Scotland:Scottish:False:14:10:4:1750:84
+UAE:Emirati:False:11:9:3:1650:80
+Nepal:Nepali:False:10:9:2:1600:78
+Oman:Omani:False:9:8:2:1550:76
+Namibia:Namibian:False:13:9:3:1680:79
+USA:American:False:8:7:2:1500:74
+Canada:Canadian:False:7:7:1:1480:73
+Kenya:Kenyan:False:6:6:1:1400:70
+Bermuda:Bermudian:False:5:6:1:1350:68
+Hong Kong:Hong Konger:False:4:5:1:1300:66
+PNG:Papua New Guinean:False:3:5:0:1250:64
+Germany:German:False:2:4:0:1200:60
+Thailand:Swiss:True:0:0:0:0:0
