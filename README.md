@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/CricketScoreboardApp.git
+git clone https://github.com/Satvik20/CricketScoreboardApp.git
 cd CricketScoreboardApp
 
 Run the App
@@ -60,7 +60,7 @@ Open a pull request.
 
 📧 Contact
 
-For any questions, feel free to reach out: your.email@domain.com
+For any questions, feel free to reach out: nagasai42006@gmail.com
 
 📜 License
 
